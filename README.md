@@ -1,4 +1,4 @@
-# Possible destinations
+# Destination explorer
 
 This tool is for showing a list of posssible destinations and then potential itineraries in those places.
 
