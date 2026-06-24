@@ -1,0 +1,36 @@
+.destination-note {
+    margin-bottom: 5px;
+    display: block;
+}
+
+.sight {
+    cursor: pointer;
+}
+
+.sight-table {
+    margin-top: 5px;
+    border-spacing: 10px 2px;
+}
+
+.sight-image {
+    display: block;
+    margin-top: 5px;
+    max-width: 85vh;
+    max-height: 65vh;
+}
+
+.sight-image-container {
+    display: flex;
+    justify-content: center;
+}
+
+.sight-images-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 5px;
+}
+
+.tab-header {
+    margin-left: 5px;
+}
